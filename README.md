@@ -1,0 +1,1 @@
+# ionic-navigation-query-param-bug
