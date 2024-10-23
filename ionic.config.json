@@ -1,0 +1,7 @@
+{
+  "name": "Foobar",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
